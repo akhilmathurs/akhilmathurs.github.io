@@ -399,16 +399,11 @@ body.offcanvas {
       padding-top: 5em;
       padding-bottom: 8em; } }
 
-.logo-img {
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
-  position: relative;
-  width: 75px;
-  height: 75px;
-  margin: 0 auto;
-  margin-bottom: 30px;}
-
+@media screen and (max-width: 768px) {
+  .logo-img{
+    display:none;
+  }
+}
 
 .author-img {
   background-size: cover;
