@@ -389,10 +389,10 @@ body.offcanvas {
   display: block; }
   @media screen and (max-width: 768px) {
     .colorlib-experience,
-    .colorlib-skills,
-    .colorlib-education,
-    .colorlib-blog,
-    .colorlib-work,
+    .colorlib-news,
+    .colorlib-publications,
+    .colorlib-service,
+    .colorlib-patents,
     .colorlib-about,
     .colorlib-services,
     .colorlib-contact {
