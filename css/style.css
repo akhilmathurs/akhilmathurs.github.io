@@ -204,8 +204,8 @@ figure {
 
     @media screen and (max-width: 768px) {
       #colorlib-aside .colorlib-footer {
-        display: none; } }
-
+        display: none; } 
+      }
 
     #colorlib-aside .colorlib-footer span {
       display: block; }
